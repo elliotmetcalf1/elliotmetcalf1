@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elliotmetcalf1
-- 👀 I’m interested in ...UX/UI design, software, apps, ecommerce, music, pizza. 
+- 👀 I’m interested in ...UX/UI design, code, apps, ecommerce, music, pizza. 
 - 📫 How to reach me ...elliotmetcalf1@gmail.com or linkedin
 
 <!---
